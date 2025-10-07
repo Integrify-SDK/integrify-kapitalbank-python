@@ -1,7 +1,7 @@
 Kapital Bank:
-  - Ümumi məlumat: "integrations/kapital/about.md"
+  - Ümumi məlumat: "integrations/kapital-bank/about.md"
   - API Referansı:
-    - API Klient: "integrations/kapital/api-reference/client.md"
+    - API Klient: "integrations/kapital-bank/api-reference/client.md"
     - Schemas:
-      - Response: "integrations/kapital/api-reference/response.md"
-      - Utils & Enums: "integrations/kapital/api-reference/utils.md"
+      - Response: "integrations/kapital-bank/api-reference/response.md"
+      - Utils & Enums: "integrations/kapital-bank/api-reference/utils.md"
