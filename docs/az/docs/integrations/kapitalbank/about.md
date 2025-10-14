@@ -1,19 +1,7 @@
 # Kapital
 
 ???+ warning
-    Bu sorğulardan istifadə etmək üçün, bu dəyərləri "environment variable"-larına əlavə etməlisiniz: `KAPITAL_USERNAME`, `KAPITAL_PASSWORD`
-    Əlave olaraq `KAPITAL_ENV` dəyişənini də təyin etməlisiniz. Əgər default olaraq saxlasaz test mühitindən istifadə edəcəksiniz. Əks halda, `prod` dəyərini təyin etməlisiniz.
-
-    | **Environment Variable** | **Description**                             | **Default**           |
-    | ------------------------ | ------------------------------------------- | --------------------- |
-    | `KAPITAL_USERNAME`       | Kapital API autentifikasiyası üçün Username | `TerminalSys/kapital` |
-    | `KAPITAL_PASSWORD`       | Kapital API autentifikasiyası üçün Password | `kapital123`          |
-    | `KAPITAL_ENV`            | Environment mode (`test` və ya `prod`)      | `test` (default)      |
-
-???+ note
-    Kapital interfeysinin dilini dəyişmək istəyirsinizsə, `KAPITAL_INTERFACE_LANG` "environment variable"-na dəyər verin. Default olaraq, Azərbaycan dili olacaq.
-
-    Sorğular uğurlu və ya uğursuz olduqda, spesifik URL-ə yönləndirmək istəyirsinizsə, bu dəyişənlərə də mühit levelində dəyər verin: `KAPITAL_REDIRECT_URL`
+    Bu sorğulardan istifadə edə bilmək üçün, düzgün "environment variable"-ları quraşdırmalısınız. Daha ətraflı [burdan](./env.md) oxuya bilərsiniz.
 
 ???+ info
     ### Test Card Məlumatları
@@ -21,6 +9,10 @@
     | ---------------- | ----------- | ------------ |
     | 4169741330151778 | 06/25       | 119          |
     | 5239151747183468 | 11/27       | 602          |
+
+    ### Test Autentifikasiyası
+    İstifadəçi adı: TerminalSys/kapital
+    Şifrə: kapital123
 
 ## Rəsmi Dokumentasiya { #official-documentation }
 

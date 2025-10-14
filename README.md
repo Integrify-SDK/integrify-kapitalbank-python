@@ -38,7 +38,7 @@
 
 ---
 
-**Dokumentasiya**: [https://integrify.mmzeynalli.dev/integrations/kapitalbank/about/](https://integrify.mmzeynalli.dev/integrations/kapital-bank/about/)
+**Dokumentasiya**: [https://integrify.mmzeynalli.dev/integrations/kapitalbank/about/](https://integrify.mmzeynalli.dev/integrations/kapitalbank/about/)
 
 **Kod**: [https://github.com/Integrify-SDK/integrify-kapitalbank-python](https://github.com/Integrify-SDK/integrify-kapitalbank-python)
 
